@@ -19,8 +19,11 @@ How do the diagrams help you visualize the branch structure?
 
 	图表能够将各个分支同时展现出来，可以清晰的观察每个分支之间的关系
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	可以将功能合并到主线中去，功能的增加
+	
+
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
