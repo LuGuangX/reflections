@@ -25,5 +25,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+		一直自动的话修改同一处的就不能进行合并了，一直手动的话就太累了
