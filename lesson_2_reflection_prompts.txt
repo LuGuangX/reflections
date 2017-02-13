@@ -21,8 +21,8 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-	可以将功能合并到主线中去，功能的增加
-	
+	可以将功能合并到主线中去，功能的增加。
+
 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
