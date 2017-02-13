@@ -1,15 +1,23 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+	会有一个名为‘。git’的文件夹创建在当前文件中，这样就可以跟踪这个目录的版本变更了
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How is the staging area different from the working directory and the repository?What value do you think it offers?
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+	暂存区是由我们来选择要保存什么东西的地方，工作目录就是一直会发生改变的地方，版本库是版本的暂存区的最终目的
+	我认为暂存区可以将想保存的东西放进去，而不是一堆东西在里面
+
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	将逻辑相同的更改提交到同一次时间的暂存区，再提交
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	在我觉得需要新的功能而不影响主功能时，可以使用分支，帮助我在一个与主分支无关的地方尽情实验。
 
 How do the diagrams help you visualize the branch structure?
+
+	图表能够将各个分支同时展现出来，可以清晰的观察每个分支之间的关系
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
