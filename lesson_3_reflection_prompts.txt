@@ -4,10 +4,11 @@ Why might you want to always pull changes manually rather than having Git automa
 
 自动存储没有手动的有逻辑性，而且那时候不一定操作过
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+	fork：需要在GitHub上从别人那里代码到自己那的时候
+	clone：将自己再GitHub上的代码复制到本地
+	branch：创建一个与主线不相干的环境，可以干自己想干的事情
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
