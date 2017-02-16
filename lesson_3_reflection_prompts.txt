@@ -14,10 +14,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	可以随时回到已知的最好状态，同时可以发现与之前版本有什么修改
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+	使用u盘，网盘，或者局域网文件分享，或者svn
+	svn比较简单，u盘最难
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
