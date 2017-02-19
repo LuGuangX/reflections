@@ -19,7 +19,6 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 	使用u盘，网盘，或者局域网文件分享，或者svn
 	svn比较简单，u盘最难
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+	当我想增加功能时，在分支中试验
